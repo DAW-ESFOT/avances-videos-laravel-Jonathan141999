@@ -22,7 +22,10 @@
     <list default="true" id="6e13c005-a961-4be9-85c3-6df93813d4a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Article.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/ArticlesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/ArticlesTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +193,7 @@
       <workItem from="1607965018290" duration="4601000" />
       <workItem from="1608158473205" duration="40000" />
       <workItem from="1608159060778" duration="1300000" />
-      <workItem from="1608646194902" duration="4030000" />
+      <workItem from="1608646194902" duration="7225000" />
     </task>
     <servers />
   </component>
@@ -214,5 +217,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="983" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1607905180365" />
+    <state x="991" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1608652732660">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="991" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1608652732660" />
   </component>
 </project>

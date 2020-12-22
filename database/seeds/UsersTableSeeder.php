@@ -15,7 +15,7 @@ class UsersTableSeeder extends Seeder
     {
         User::truncate();
         $faker = \Faker\Factory::create();
-        $password = Hash::make('123456');
+        $password = Hash::make('123123');
         User::create([
             'name' => 'Administrador',
             'email' => 'admin@prueba.com',
