@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e13c005-a961-4be9-85c3-6df93813d4a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/ArticlesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/ArticlesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ArticleController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -191,7 +189,17 @@
       <workItem from="1607965018290" duration="4601000" />
       <workItem from="1608158473205" duration="40000" />
       <workItem from="1608159060778" duration="1300000" />
-      <workItem from="1608646194902" duration="9866000" />
+      <workItem from="1608646194902" duration="10514000" />
+      <workItem from="1608675980931" duration="43000" />
+      <workItem from="1609286473122" duration="88000" />
+      <workItem from="1609382497920" duration="119000" />
+      <workItem from="1609388322571" duration="608000" />
+      <workItem from="1609453106450" duration="220000" />
+      <workItem from="1609954773720" duration="50000" />
+      <workItem from="1609956594451" duration="258000" />
+      <workItem from="1610411888151" duration="2642000" />
+      <workItem from="1610833520024" duration="870000" />
+      <workItem from="1610918052119" duration="5225000" />
     </task>
     <servers />
   </component>
@@ -211,13 +219,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="983" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607905180365">
+    <state x="983" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610926219516">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="983" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1607905180365" />
+    <state x="983" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1610926219516" />
     <state x="991" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1608652732660">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="991" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1608652732660" />
+    <state x="175" y="192" key="FileChooserDialogImpl" timestamp="1608676024843">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="175" y="192" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1608676024843" />
   </component>
 </project>
